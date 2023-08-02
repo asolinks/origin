@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Test {
 
-	private static Container smallContainer;
+    private static Container smallContainer;
     private static Container bigContainer;
 
     public static void main(String[] args) {
